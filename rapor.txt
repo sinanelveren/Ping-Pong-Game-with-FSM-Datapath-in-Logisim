@@ -1,0 +1,19 @@
+Vakit darlýðýndan dolayý rapor yazamadým, sadece çalýþmalarýmýn ekran görüntüsünü gönderdim.
+FSM Düzgün bir þekilde çalýþmaktadýr.
+8 State'den oluþuyor.
+State 0 :
+	Go sinyalini bekliyor
+State 1:
+	Counter degerlerini sýfýrlýyor, oyuna hazýr hale getiriyor
+State 2:
+	Topun saða doguru gittigi state
+State 3:
+	Topun sola dogru gittigi state
+State 4:
+	Player1 sayý yapacaksa
+State 5:
+	Player2 sayý yapacaksa
+State 6
+	Playerler sayý yaptýktan sonra geliyor, scoru guncelliyor
+State 7:
+	Herhangi bir oyunucun Score 10 a ulasmýssa oyunu durduruyor, reset 1 olursa oyun yeniden baslýyor
